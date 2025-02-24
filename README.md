@@ -90,10 +90,6 @@ Example Scenarios:
    - Startups and innovative projects where requirements are uncertain.
 
    
-
-
-
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer.
@@ -384,4 +380,3 @@ The improved prompt is more effective because:
 - It is specific and clear on details.
 - It provides context on what a user is looking for.
 - It is concise and to the point.
-- 
